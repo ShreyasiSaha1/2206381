@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "axios": "^1.8.4",
+    "dotenv": "^16.4.7",
+    "env": "^0.0.2",
+    "express": "^5.1.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "task-1",
+  "version": "1.0.0",
+  "main": "fetchToken.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
